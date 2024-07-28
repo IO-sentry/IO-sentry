@@ -6,7 +6,7 @@ hopes for X11. A true blessing in disguise because ... Discovering Slackware 3.4
 the rest is history...
 
 I even ran Yellow Dog 1.1 (painfully) on a Blue and White Mac G3 tower. Ugh... By 1998 I had become obsessed with information security. 
-I cut my teeth in the good old days when a demonic group of bovine idolaters were hip (CotDC), 
+I cut my teeth in the good old days when a demonic group of bovine idolaters were hip (CDC), 
 Attrition.org was THE place to get posted up AND be called a script kiddie at the same time, these were 
 industrial and heavy days when kids hung in Massachusetts attics and Mudge looked like a pot-head (l0pht).
 I spent some years embarrasingly active on irc.2600.net and still keep in contact with some of them... Albeit on 
