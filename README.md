@@ -1,4 +1,4 @@
-iosentry sysadm / dev / builder / breaker of hard / soft warez
+iosentry: sysadm / dev / builder / maker / breaker of hard / soft warez
 
 Linux hacker since kernel v2
 Current research focus is primarily related to embedded systems.
